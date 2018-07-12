@@ -1,0 +1,23 @@
+.post {
+    font-family: Arial;
+    margin-bottom: 20px;
+    border-bottom: 1px solid;
+    padding-bottom: 20px;
+    width: 1000px;
+    margin: 20px auto;
+}
+
+.post-header {
+    font-size: 40px;
+    display: inline-block;
+}
+
+.post-date {
+    display: inline-block;
+    float: right;
+    margin-top: 15px;
+}
+
+.post-link {
+    float: right;
+}

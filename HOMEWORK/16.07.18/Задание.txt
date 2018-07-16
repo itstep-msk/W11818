@@ -1,0 +1,3 @@
+1) Создать интернет-магазин по макету.
+2) Список https://github.com/space2pacman/front-end-check-list
+3) Сверстать макет 01-Homepage-01.jpg
